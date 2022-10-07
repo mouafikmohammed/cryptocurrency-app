@@ -1,9 +1,22 @@
 import React from 'react'
+import { Switch, Route } from 'react-router-dom';
+import { Layout, Typography, Space } from 'antd';
+
+
+import { Navbar } from './components';
 
 const App = () => {
   return (
-    <div>
-      <h1>CryptoMo</h1>
+    <div className='app'>
+      <div className='navbar'>
+        
+      </div>
+      <div className='main'>
+
+      </div>
+      <div className='footer'>
+
+      </div>
     </div>
   );
 }
