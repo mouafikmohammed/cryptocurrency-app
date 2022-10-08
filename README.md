@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# CryptoMo
+It is a Cryptocurrency news app, include charts and last news etc using APIs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). by Mohammed Mouafik
 
